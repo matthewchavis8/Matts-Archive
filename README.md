@@ -5,7 +5,7 @@ Here is a description of my programming Journey. I started learning in January 2
 So I began my journey with CS50 by Harvard, which is a great introductory course that I highly recommend. This course taught me strong fundamentals, and the instructor, David Milan, is an excellent professor.
 - **CS50**: link: https://pll.harvard.edu/course/cs50-introduction-computer-science
 
-# Next and courses
+# Courses
 After completing CS50, I watched several tutorials to improve my basic understanding of the programming languages covered in the course.
 
 I found the "Bro Code" courses particularly helpful. They are quick, provide in-depth explanations, and are taught by a cool instructor. 
