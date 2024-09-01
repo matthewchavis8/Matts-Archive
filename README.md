@@ -1,6 +1,8 @@
 # Matt's Archive
 Here is a description of my programming Journey. I started learning in January 2023 my senior year of high school.
 
+![Color-in-The-Death-of-Socrates-Painting](https://github.com/user-attachments/assets/9bb58218-0048-4b0d-99a1-bb9737f5d2fa)
+
 # Start
 So I began my journey with CS50 by Harvard, which is a great introductory course that I highly recommend. This course taught me strong fundamentals, and the instructor, David Milan, is an excellent professor.
 - **CS50**: link: https://pll.harvard.edu/course/cs50-introduction-computer-science
@@ -32,7 +34,7 @@ The rest I gained through experience with NETCONF, YANG, Groovy, Tailwind, C#, U
 Medium: 25 mins:
 Hard: 30 mins:**
 After the time is up you then can look at the solution and WATCH an explanation on YouTube. Also, you can ask ChatGPT to explain the code to you or prompt it to ask what went wrong. Highly recommend you do this of course do not copy and paste heads up CHATGPT SUCKS IN REAL WORLD APPLICATION trust me I tried using it at work it does not work. Anyway, use ChatGPT or Ai as a tool if you want to take notes on something or ask you to explain use it like that!
-# The leetcode's Catch 22/ The Leetcode conundrum
+# Leetcode's Catch 22/ The Leetcode conundrum
   So leetcode and tutorials/projects are all intertwined. It truly is one big catch-22 or conundrum you can say.
   
 _You need to be able to leetcode to get the job, but do projects, learn languages, and tutorials to keep the job"_ -    **Matthew Chavis**
