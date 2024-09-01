@@ -7,7 +7,6 @@ So I began my journey with CS50 by Harvard, which is a great introductory course
 
 # Courses
 After completing CS50, I watched several tutorials to improve my basic understanding of the programming languages covered in the course.
-
 I found the "Bro Code" courses particularly helpful. They are quick, provide in-depth explanations, and are taught by a cool instructor. 
 The languages and tools I have learned in chronological order are as follows:
 C, C++, Python, SQL, HTML, CSS, JavaScript, Git, React, and Next.js. 
