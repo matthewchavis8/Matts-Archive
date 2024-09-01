@@ -12,7 +12,7 @@ I found the "Bro Code" courses particularly helpful. They are quick, provide in-
 The languages and tools I have learned in chronological order are as follows:
 C, C++, Python, SQL, HTML, CSS, JavaScript, Git, React, and Next.js. 
 The rest I gained through experience with NETCONF, YANG, Groovy, Tailwind, C#, Unity, TypeScript, Jira, and Confluence during my job and internship. 
-# Courses
+# Course Links
 - **C**: https://youtu.be/87SH2Cn0s9A?si=JxGKE3Snij9_Cxd2
 - **C++**: https://youtu.be/-TkoO8Z07hI?si=tMDhL6Zd31yJP263
 - **Python**: https://youtu.be/ix9cRaBkVe0?si=DH1ff2bcYlxK4o5D
