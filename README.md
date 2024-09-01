@@ -34,16 +34,17 @@ The rest I gained through experience with NETCONF, YANG, Groovy, Tailwind, C#, U
 Medium: 25 mins:
 Hard: 30 mins:**
 After the time is up you then can look at the solution and WATCH an explanation on YouTube. Also, you can ask ChatGPT to explain the code to you or prompt it to ask what went wrong. Highly recommend you do this of course do not copy and paste heads up CHATGPT SUCKS IN REAL WORLD APPLICATION trust me I tried using it at work it does not work. Anyway, use ChatGPT or Ai as a tool if you want to take notes on something or ask you to explain use it like that!
-# Leetcode's Catch 22/ The Leetcode conundrum
+**Best channels for explanations?**
+- **NeetCode**: https://www.youtube.com/@NeetCode
+- **Back To Back SWE**: https://www.youtube.com/@BackToBackSWE
+
+# The Leetcode Catch 22/ The Leetcode conundrum
 ![image](https://github.com/user-attachments/assets/d021f27a-61ea-4b7c-9694-8f5d50a15f7a)
 
 So leetcode and tutorials/projects are all intertwined. It truly is one big catch-22 or conundrum you can say.
 
 _You need to be able to leetcode to get the job, but do projects, learn languages, and tutorials to keep the job"_ -    **Matthew Chavis**
 
-**Best channels for explanations?**
-- **NeetCode**: https://www.youtube.com/@NeetCode
-- **Back To Back SWE**: https://www.youtube.com/@BackToBackSWE
 
 
   
