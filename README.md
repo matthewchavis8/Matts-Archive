@@ -34,9 +34,8 @@ Hard: 30 mins:**
 After the time is up you then can look at the solution and WATCH an explanation on YouTube. Also, you can ask ChatGPT to explain the code to you or prompt it to ask what went wrong. Highly recommend you do this of course do not copy and paste heads up CHATGPT SUCKS IN REAL WORLD APPLICATION trust me I tried using it at work it does not work. Anyway, use ChatGPT or Ai as a tool if you want to take notes on something or ask you to explain use it like that!
 
 **Best channels for explanations?**
-**NeetCode**: https://www.youtube.com/@NeetCode
-
-**Back To Back SWE**: https://www.youtube.com/@BackToBackSWE
+- **NeetCode**: https://www.youtube.com/@NeetCode
+- **Back To Back SWE**: https://www.youtube.com/@BackToBackSWE
 
 
 
