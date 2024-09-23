@@ -54,10 +54,11 @@ So leetcode and tutorials/projects are all intertwined. It truly is one big catc
 _You need to be able to meet code to get the job, but do projects, learn languages, and tutorials to keep the job"_ -    **Matthew Chavis**
 
 # Getting An Internship?
-![image](https://giMyer-attachments/assets/b5e55a11-baca-42f2-81c2-c68ac8d49488)
+![image](https://github.com/user-attachments/assets/1c0e1f22-dc21-4202-bcb8-b1aaa4f2dfbb)
 So at some point, you are going to want to land an internship whether it be **Money**, **Experience**, **Resume**, **RTO**, or everything above. It does not matter what your motivation is I do not care what you are in it for I am just here to help. Moreover, Take this with a grain of salt as this is coming from some random 19-year-old who barely got his feet wet in the industry. But here we go so the first step is to craft a strong resume. 
 # Crafting a strong resume
 ![image](https://github.com/user-attachments/assets/c6047b59-7586-401d-b277-530f37b4180b)
+
 Now how do we craft a strong resume with no experience (If you have great experience!)? Now with no experience landing the first one will be tough I will not lie to you, especially with the market today it will involve a lot of luck. Some might call me crazy, but I believe luck can be influenced. Luck is when preparation meets opportunity. So, how can we increase our "luck"? One way is by crafting a strong resume, which improves our chances of success when opportunities arise. Now crafting a strong resume I recommend you to structure it like this: Education->Technical Skills->Experience->Projects. Now for Experience, if you have no experience it is okay there are alternative ways. Another tip is to enhance your resume by adding relevant activities, like joining a club (e.g., "Robotics Club") or participating in a research lab to boost your profile. However, if you don’t have much experience, your projects will be the main focus of your resume. I’m being honest—your projects will be your biggest selling point. Feel free to use my resume as a template. It's worked well for me, and you can adapt it to create your own. The reason I say projects is that before I landed my internships my projects were what got me my callback. In fact, my flight simulator is the one that got me my first internship as that was the reason they interviewed me.
 
 # My Current Resume
