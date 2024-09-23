@@ -55,6 +55,7 @@ _You need to be able to meet code to get the job, but do projects, learn languag
 
 # Getting An Internship?
 ![image](https://github.com/user-attachments/assets/1c0e1f22-dc21-4202-bcb8-b1aaa4f2dfbb)
+
 So at some point, you are going to want to land an internship whether it be **Money**, **Experience**, **Resume**, **RTO**, or everything above. It does not matter what your motivation is I do not care what you are in it for I am just here to help. Moreover, Take this with a grain of salt as this is coming from some random 19-year-old who barely got his feet wet in the industry. But here we go so the first step is to craft a strong resume. 
 # Crafting a strong resume
 ![image](https://github.com/user-attachments/assets/c6047b59-7586-401d-b277-530f37b4180b)
