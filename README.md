@@ -63,7 +63,8 @@ So at some point, you are going to want to land an internship whether it be **Mo
 Now how do we craft a strong resume with no experience (If you have great experience!)? Now with no experience landing the first one will be tough I will not lie to you, especially with the market today it will involve a lot of luck. Some might call me crazy, but I believe luck can be influenced. Luck is when preparation meets opportunity. So, how can we increase our "luck"? One way is by crafting a strong resume, which improves our chances of success when opportunities arise. Now crafting a strong resume I recommend you to structure it like this: Education->Technical Skills->Experience->Projects. Now for Experience, if you have no experience it is okay there are alternative ways. Another tip is to enhance your resume by adding relevant activities, like joining a club (e.g., "Robotics Club") or participating in a research lab to boost your profile. However, if you don’t have much experience, your projects will be the main focus of your resume. I’m being honest—your projects will be your biggest selling point. Feel free to use my resume as a template. It's worked well for me, and you can adapt it to create your own. The reason I say projects is that before I landed my internships my projects were what got me my callback. In fact, my flight simulator is the one that got me my first internship as that was the reason they interviewed me.
 
 # My Current Resume
-[ResumeM.pdf](https://github.com/user-attachments/files/17397156/ResumeM.pdf)
+[ResumeM copy.pdf](https://github.com/user-attachments/files/18934433/ResumeM.copy.pdf)
+
 
 
 # Applying
