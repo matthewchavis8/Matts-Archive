@@ -24,7 +24,7 @@ The rest I gained through experience with NETCONF, YANG, Groovy, Tailwind, C#, U
 
 # How to Learn?
   Ok, I will not lie you can't just learn by watching tutorials. Tutorials are meant to be supplemental you need to be able to apply what you learned from tutorials. An example of this is when you were a child you were told how to do arithmetic right? Yes, you were, but I guarantee you that you did not get it immediately without being able to recall and apply it. Tutorials are the same way it will introduce and tell you how to use that tool or framework, but you need to apply it to truly understand it. But matt? How the hell do we apply programming how do we apply these tools? how do we apply? Well, this is where **Projects** come into play. **Projects** are a way for you to apply what you learned from tutorials I recommend doing one project or a couple of mini projects for each language. You can choose to do more if you want to go more in-depth.
-  **My Past Projects**
+  **Couple of Past Projects**
   - **Flight Simulator**
   - **Trading Algorithm**
   - **ASCII Ray Cast Engine**
@@ -32,9 +32,9 @@ The rest I gained through experience with NETCONF, YANG, Groovy, Tailwind, C#, U
   - **Pomodoro App**
   - **Ebay WebScraper**
   - **Security Camera**
-  - **Chess Game**
+  - **Checkers Game**
 - In a nutshell
-  Learning goes **introduce/supplement** then **APPLY**. This is how we should approach learning. 
+  Learning goes **introduce/supplement** then **APPLY**. This is how I approach things. Basically I recommend to first read docs, or maybe a tutorial in that language then after start doing projects
   
 # Do Not Forget to LeetCode on the side!
   A leetcode a day keeps the interviews away. Haha, so wtf is leetcode you might be wondering. Leetcode is a website used to practice technical data structures and algorithm questions. Now I will not go in-depth, but during interviews, you will have to solve these kinds of questions. Contrary to belief I would not bother watching a data structure and algorithm course, but I would instead just hop right in and learn as you go. However, I would watch a short video on time complexities and efficiency. But do not have to go in-depth just jump right in and do. Now it is gonna be hard as hell when you start and it will feel like you are not getting better. But trust me you will see yourself improve slowly but you will notice and you will take pleasure in it. Ok regarding strategies for learning how to leetcode everyone has different styles for it I am still experimenting. I am no expert by any means I only have 130 leetcode questions solved hope to crack 300 by December. Moreover, so my strategy is to set a timer and try to solve a question on your own. Just flounder for a set of time it teaches you how to problem solve. 
