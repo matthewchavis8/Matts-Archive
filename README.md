@@ -74,6 +74,12 @@ Ok, so We have a strong resume I think we are ready to apply now. This one is pr
 
 # To be Continued (Interviews)
 
+# Oh also more advice for personal:
+  - Do not compare yourself to anyone else in your field. While you can aspire to be like that     person, please do not put them on a pedestal. 
+    This leads to imposter syndrome. Just do you and focus on yourself haha!
+  - Do not be cocky and do not be a dick quite simple here.
+  - Make sure to have fun a lot of people get caught up in the CS grind and they end up missing out on critical development that they should experience in college, such as hanging out with friends, relationships, friendships, basically just doing college stuff. Hey, you might not care now, however, I guarantee down the line you will reflect on it. Now I am not saying you will peak in college haha but college is a special time and I think it is important you experience these things. Of course, you have to balance things through the grind and social but the point is to balance! I say this because I remember my first semester I was focused on the grind and missed out on some relationships I wish I had both romantical and friendship-wise. That is why **balance is essential**
+
 
 
 
