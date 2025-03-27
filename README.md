@@ -1,87 +1,169 @@
-# Matt's Archive
-I began my programming journey in January 2023, during my senior year of high school. This README outlines the resources and strategies I used to learn programming, along with advice.
+# 👨‍💻 Matt's Archive
+
+Hey there! I started my programming journey in **January 2023**, during my senior year of high school. This README is my little archive — where I share the resources, strategies, and advice that helped me along the way.
+
 ![Color-in-The-Death-of-Socrates-Painting](https://github.com/user-attachments/assets/9bb58218-0048-4b0d-99a1-bb9737f5d2fa)
 
-# Start
-I kicked things off with CS50 by Harvard, an excellent introductory course. I highly recommend it for building strong fundamentals. The instructor, David J. Malan, is fantastic!
-- **CS50**: link: https://pll.harvard.edu/course/cs50-introduction-computer-science
+---
 
-# Courses
-After completing CS50, I watched several tutorials to improve my basic understanding of the programming languages covered in the course.
-I found the "Bro Code" courses particularly helpful. They are quick, provide in-depth explanations, and are taught by a cool instructor. 
-The languages and tools I have learned in chronological order are as follows:
-C, C++, Python, SQL, HTML, CSS, JavaScript, Git, React, and Next.js. 
-The rest I gained through experience with NETCONF, YANG, Groovy, Tailwind, C#, Unity, TypeScript, Jira, and Confluence during my job and internship. 
-# Course Links
-- **C**: https://youtu.be/87SH2Cn0s9A?si=JxGKE3Snij9_Cxd2
-- **C++**: https://youtu.be/-TkoO8Z07hI?si=tMDhL6Zd31yJP263
-- **Python**: https://youtu.be/ix9cRaBkVe0?si=DH1ff2bcYlxK4o5D
-- **HTML/CSS**: https://youtu.be/HGTJBPNC-Gw?si=vVw7NpCadDX35IpR
-- **JavaScript**: https://www.youtube.com/results?search_query=Javascript+bro+code
-- **SQL**: https://youtu.be/5OdVJbNCSso?si=_-UYLrffRv5E0hgq
-- **React**: https://youtu.be/SqcY0GlETPk?si=raawYcDViBGMuyyh
-- **Next.JS**: https://youtu.be/pUNSHPyVryU?si=v44R8XjzlKdBC67F
+## 🚀 Getting Started
 
-# How to Learn?
-  Ok, I will not lie you can't just learn by watching tutorials. Tutorials are meant to be supplemental you need to be able to apply what you learned from tutorials. An example of this is when you were a child you were told how to do arithmetic right? Yes, you were, but I guarantee you that you did not get it immediately without being able to recall and apply it. Tutorials are the same way it will introduce and tell you how to use that tool or framework, but you need to apply it to truly understand it. But matt? How the hell do we apply programming how do we apply these tools? how do we apply? Well, this is where **Projects** come into play. **Projects** are a way for you to apply what you learned from tutorials I recommend doing one project or a couple of mini projects for each language. You can choose to do more if you want to go more in-depth.
-  **Couple of Past Projects**
-  - **Flight Simulator**
-  - **Trading Algorithm**
-  - **ASCII Ray Cast Engine**
-  - **Personal Library App**
-  - **Pomodoro App**
-  - **Ebay WebScraper**
-  - **Security Camera**
-  - **Checkers Game**
-- In a nutshell
-  Learning goes **introduce/supplement** then **APPLY**. This is how I approach things. Basically I recommend to first read docs, or maybe a tutorial in that language then after start doing projects
-  
-# Do Not Forget to LeetCode on the side!
-  A leetcode a day keeps the interviews away. Haha, so wtf is leetcode you might be wondering. Leetcode is a website used to practice technical data structures and algorithm questions. Now I will not go in-depth, but during interviews, you will have to solve these kinds of questions. Contrary to belief I would not bother watching a data structure and algorithm course, but I would instead just hop right in and learn as you go. However, I would watch a short video on time complexities and efficiency. But do not have to go in-depth just jump right in and do. Now it is gonna be hard as hell when you start and it will feel like you are not getting better. But trust me you will see yourself improve slowly but you will notice and you will take pleasure in it. Ok regarding strategies for learning how to leetcode everyone has different styles for it I am still experimenting. I am no expert by any means I only have 130 leetcode questions solved hope to crack 300 by December. Moreover, so my strategy is to set a timer and try to solve a question on your own. Just flounder for a set of time it teaches you how to problem solve. 
-**Easy: 20 mins
-Medium: 25 mins:
-Hard: 30 mins:**
-After the time is up you then can look at the solution and WATCH an explanation on YouTube. Also, you can ask ChatGPT to explain the code to you or prompt it to ask what went wrong. Highly recommend you do this of course do not copy and paste heads up CHATGPT SUCKS IN REAL WORLD APPLICATION trust me I tried using it at work it does not work. Anyway, use ChatGPT or Ai as a tool if you want to take notes on something or ask you to explain use it like that!
-**Best channels for explanations?**
-- **NeetCode**: https://www.youtube.com/@NeetCode
-- **Back To Back SWE**: https://www.youtube.com/@BackToBackSWE
+I kicked things off with [**CS50**](https://pll.harvard.edu/course/cs50-introduction-computer-science) by Harvard — an *excellent* intro course. Seriously, if you're just getting into programming, I can’t recommend it enough. David J. Malan? Dude’s a legend.
 
-# The Leetcode Catch 22/ The Leetcode conundrum
+---
+
+## 📚 Courses I Took
+
+After CS50, I went through a bunch of tutorials to get more hands-on with the languages.  
+I found **Bro Code** videos super helpful — fast, clear, and taught by a chill instructor.
+
+### Languages & Tools I’ve Learned (in order):
+
+**C, C++, Python, SQL, HTML, CSS, JavaScript, Git, React, Next.js**
+
+From work and internships, I also picked up:  
+**NETCONF, YANG, Groovy, Tailwind, C#, Unity, TypeScript, Jira, Confluence**
+
+### 📺 Course Links
+
+- [C](https://youtu.be/87SH2Cn0s9A?si=JxGKE3Snij9_Cxd2)  
+- [C++](https://youtu.be/-TkoO8Z07hI?si=tMDhL6Zd31yJP263)  
+- [Python](https://youtu.be/ix9cRaBkVe0?si=DH1ff2bcYlxK4o5D)  
+- [HTML/CSS](https://youtu.be/HGTJBPNC-Gw?si=vVw7NpCadDX35IpR)  
+- [JavaScript](https://www.youtube.com/results?search_query=Javascript+bro+code)  
+- [SQL](https://youtu.be/5OdVJbNCSso?si=_-UYLrffRv5E0hgq)  
+- [React](https://youtu.be/SqcY0GlETPk?si=raawYcDViBGMuyyh)  
+- [Next.js](https://youtu.be/pUNSHPyVryU?si=v44R8XjzlKdBC67F)  
+
+---
+
+## 🛠️ How to Learn (For Real)
+
+Let me be real with you: **you can't just watch tutorials and expect to learn**.  
+They’re meant to *introduce* ideas, but the real magic happens when you **apply** them.
+
+Think of it like when you learned math as a kid — you were *told* how to do it, but you didn’t actually *get it* until you practiced. Programming is the same.  
+
+### So... how do you apply it?  
+**Projects.**
+
+Projects are where you *make* stuff and put your learning to the test.
+
+### 🧠 My Past Projects
+- Flight Simulator  
+- Trading Algorithm  
+- ASCII Ray Cast Engine  
+- Personal Library App  
+- Pomodoro App  
+- eBay Web Scraper  
+- Security Camera  
+- Checkers Game  
+
+In short:  
+> **Learn → Apply**  
+> Read the docs, skim a tutorial, and then jump into building something.
+
+---
+
+## 🧠 Don't Forget to LeetCode!
+
+> *"A Leetcode a day keeps the interview away."*
+
+So what is LeetCode? It’s a site to practice coding challenges and prepare for technical interviews. You *will* see these types of problems during interviews, no cap.
+
+Do you need to take a whole DSA course first? Not really.  
+My advice: **just jump in**. Maybe watch a quick video on time complexity, and go from there.
+
+It’s gonna suck at first. It’ll feel like you’re not improving. But over time — trust me — you’ll look back and be shocked at how far you've come.
+
+### My Strategy:
+- Set a timer and **struggle first** (seriously, it builds problem-solving skills)
+  - Easy: 20 mins  
+  - Medium: 25 mins  
+  - Hard: 30 mins  
+- Then, look at the solution and **watch a YouTube explanation**
+- Ask ChatGPT to explain your mistakes (don’t just copy/paste, though)
+
+> Heads up: **ChatGPT kinda sucks for real-world code** — don’t rely on it at work. But it’s great for reviewing concepts and taking notes.
+
+### 🔥 My Favorite YouTube Channels:
+- [NeetCode](https://www.youtube.com/@NeetCode)  
+- [Back To Back SWE](https://www.youtube.com/@BackToBackSWE)
+
+---
+
+## 🤯 The Leetcode Conundrum
+
 ![image](https://github.com/user-attachments/assets/d021f27a-61ea-4b7c-9694-8f5d50a15f7a)
 
-So leetcode and tutorials/projects are all intertwined. It truly is one big catch-22 or conundrum you can say.
+> “You need LeetCode to **get** the job,  
+> But you need **projects/tutorials/languages** to **keep** the job.”  
+> – *Matthew Chavis*
 
-_You need to be able to meet code to get the job, but do projects, learn languages, and tutorials to keep the job"_ -    **Matthew Chavis**
+---
 
-# Getting An Internship?
+## 💼 Getting an Internship
+
 ![image](https://github.com/user-attachments/assets/1c0e1f22-dc21-4202-bcb8-b1aaa4f2dfbb)
 
-So at some point, you are going to want to land an internship whether it be **Money**, **Experience**, **Resume**, **RTO**, or everything above. It does not matter what your motivation is I do not care what you are in it for I am just here to help. Moreover, Take this with a grain of salt as this is coming from some random 19-year-old who barely got his feet wet in the industry. But here we go so the first step is to craft a strong resume. 
-# Crafting a strong resume
+At some point, you’re gonna want one. Whether it’s for:
+- 💰 Money  
+- 💼 Experience  
+- 📄 Resume  
+- 🏢 RTO  
+...or all of the above — doesn’t matter to me. I’m just here to help.
+
+This is all coming from a random 19-year-old who’s still figuring things out. But here's what worked for me:
+
+---
+
+## 📄 Crafting a Strong Resume
+
 ![image](https://github.com/user-attachments/assets/c6047b59-7586-401d-b277-530f37b4180b)
 
-Now how do we craft a strong resume with no experience (If you have great experience!)? Now with no experience landing the first one will be tough I will not lie to you, especially with the market today it will involve a lot of luck. Some might call me crazy, but I believe luck can be influenced. Luck is when preparation meets opportunity. So, how can we increase our "luck"? One way is by crafting a strong resume, which improves our chances of success when opportunities arise. Now crafting a strong resume I recommend you to structure it like this: Education->Technical Skills->Experience->Projects. Reason I am telling you to put your technical skills on top because on average a recruiter takes about 5 seconds to scan through your resume. Recruiters also tend to be humanity majors or like communications and these people determing your trajectory. Like an HR woman or man, determine if you will put the fries in the bag! So adding tech skills on top just makes it easier for them.
+### With no experience? Here's the move:
+**Structure it like this:**
+> Education → Technical Skills → Experience → Projects
 
- Now for Experience, if you have no experience it is okay there are alternative ways. Another tip is to enhance your resume by adding relevant activities, like joining a club (e.g., "Robotics Club") or participating in a research lab to boost your profile. However, if you don’t have much experience, your projects will be the main focus of your resume. I’m being honest—your projects will be your biggest selling point. Feel free to use my resume as a template. It's worked well for me, and you can adapt it to create your own. I say projects because before I landed my internships, my projects got me my callback. In fact, my flight simulator is the one that got me my first internship as that was the reason they interviewed me.
+**Put Technical Skills at the top.**  
+Why? Because recruiters spend *5 seconds* scanning resumes — and a lot of them aren’t even in tech.
 
-# My Current Resume
+Your projects will carry the most weight early on. Before I landed any internships, my **Flight Simulator** project got me my first callback.
+
+> 💡 Bonus tip: Join clubs (e.g. Robotics) or research labs — stack your resume that way.
+
+Want an example? Feel free to use mine as a template:  
 [ResumeM copy.pdf](https://github.com/user-attachments/files/18934433/ResumeM.copy.pdf)
 
+---
 
+## 📬 Applying
 
-# Applying
-Ok, so We have a strong resume I think we are ready to apply now. This one is pretty simple if you do not have previous experience SPAM apply hard. Just send out your application for everything. (https://simplify.jobs/) This extension auto fills some parts of the application trust me you will need it. The reason I say spam apply is because I believe if you have a strong resume and you shoot your resume out like a shotgun one pellet is bound to hit something. Also, the time spent tailoring your resume is just not worth it for your first internship. Landing the first one is tough and there is a saying "Beggars can't be choosers" For your first internship you just want to take whatever. Now after you land your first one you can start being picky because your call back will increase a lot. Currently after 2 internships, just for this cycle so far I have interviewed at Garmin, and Flow Traders(Quant), and as of right now, I am in the second round with a big bank on Wall Street which I can't spoil yet. Moreover, in my opinion, if you are in a no-name state school I would target internships near you what I mean is I would not bother targeting bigger places without a first internship due to the competition. But the easy way is to just look up software intern on Linked In and then just mass apply.
+Okay, so your resume’s solid — now what?
 
-# To be Continued (Interviews)
+**Spam apply.** I’m serious.
 
-# Oh also more advice for personal:
-  - Do not compare yourself to anyone else in your field. While you can aspire to be like that     person, please do not put them on a pedestal. 
-    This leads to imposter syndrome. Just do you and focus on yourself haha!
-  - Do not be cocky and do not be a dick quite simple here.
-  - Make sure to have fun a lot of people get caught up in the CS grind and they end up missing out on critical development that they should experience in college, such as hanging out with friends, relationships, friendships, basically just doing college stuff. Hey, you might not care now, however, I guarantee down the line you will reflect on it. Now I am not saying you will peak in college haha but college is a special time and I think it is important you experience these things. Of course, you have to balance things through the grind and social but the point is to balance! I say this because I remember my first semester I was focused on the grind and missed out on some relationships I wish I had both romantical and friendship-wise. That is why **balance is essential**
+Use tools like [Simplify](https://simplify.jobs/) to autofill apps and apply to *everything*.  
+Your resume is a shotgun — send it out far and wide. One is bound to hit.
 
+Don’t waste time tailoring each app early on. For your first internship, take *anything* that gives you experience. Once you land one, then you can get picky.
 
+> I go to a no-name state school. I aimed for local companies first — more manageable competition.
 
+---
 
+## 🗣️ Interviews — To Be Continued...
 
+---
 
+## 🧘 Personal Advice
+
+- Don’t compare yourself to others. Aspire, don’t pedestal people.  
+- Don’t be cocky. Don’t be a dick.  
+- Don’t forget to live.
+
+It’s easy to get stuck in the grind and miss out on the *college experience*. I’m not saying go wild — I’m saying find balance. The friendships, late-night talks, little moments — they matter too.
+
+I missed out on a few things in my first semester, both friendships and relationships I wish I had nurtured. That’s why I’m telling you:
+
+> **Balance is everything.**
