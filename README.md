@@ -22,7 +22,7 @@ I found **Bro Code** videos super helpful — fast, clear, and taught by a chill
 **C, C++, Python, SQL, HTML, CSS, JavaScript, Git, React, Next.js**
 
 From work and internships, I also picked up:  
-**NETCONF, YANG, Groovy, Tailwind, C#, Unity, TypeScript, Jira, Confluence**
+**Groovy, Tailwind, C#, Unity, TypeScript, Jira, Confluence**
 
 ### 📺 Course Links
 
@@ -50,7 +50,10 @@ Think of it like when you learned math as a kid — you were *told* how to do it
 Projects are where you *make* stuff and put your learning to the test.
 
 ### 🧠 My Past Projects
-- Flight Simulator  
+- Flight Simulator
+- PNG Encoder
+- Grep
+- Cat
 - Trading Algorithm  
 - ASCII Ray Cast Engine  
 - Personal Library App  
