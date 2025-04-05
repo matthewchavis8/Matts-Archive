@@ -160,7 +160,7 @@ Don’t waste time tailoring each app early on. For your first internship, take 
 ## 🧘 Personal Advice
 
 - Don’t compare yourself to others. Everyone has their own path so do not compare yourself with anyone else just your skills in the past. 
-- Don’t be cocky. If you are arrogant I promise you will be ignorant when learning from people. Also nobody likes a A$$hole.  
+- Don’t be cocky. If you are arrogant I promise you will be ignorant when learning from people. Nobody likes a A$$hole.  
 - Don’t forget to live.
 
 It’s easy to get stuck in the grind and miss out on the *college experience*. I’m not saying go wild — I’m saying find balance. The friendships, late-night talks, little moments — they matter too.
