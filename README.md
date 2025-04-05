@@ -122,8 +122,6 @@ This is all coming from a random 19-year-old who’s still figuring things out. 
 
 ## 📄 Crafting a Strong Resume
 
-![image](https://github.com/user-attachments/assets/c6047b59-7586-401d-b277-530f37b4180b)
-
 ### With no experience? Here's the move:
 **Structure it like this:**
 > Education → Technical Skills → Experience → Projects
