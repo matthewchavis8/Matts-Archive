@@ -127,7 +127,7 @@ This is all coming from a random 19-year-old who’s still figuring things out. 
 > Education → Technical Skills → Experience → Projects
 
 **Put Technical Skills at the top.**  
-Why? Because recruiters spend *5 seconds* scanning resumes — and a lot of them aren’t even in tech.
+Why? Because recruiters spend *5 seconds* scanning resumes and a lot of them aren’t even in tech.
 
 Your projects will carry the most weight early on. Before I landed any internships, my **Flight Simulator** project got me my first callback.
 
@@ -160,10 +160,10 @@ Don’t waste time tailoring each app early on. For your first internship, take 
 ## 🧘 Personal Advice
 
 - Don’t compare yourself to others. Everyone has their own path so do not compare yourself with anyone else just your skills in the past. 
-- Don’t be cocky. If you are arrogant I promise you will be ignorant when learning from people. Nobody likes a A$$hole.  
+- Don’t be cocky. If you are arrogant no matter how smart you may think you are... you can and will miss out on some information due to how ignorant you are. Look do not be a Asshole or pretenious nobody likes those.  
 - Don’t forget to live.
 
-It’s easy to get stuck in the grind and miss out on the *college experience*. I’m not saying go wild — I’m saying find balance. The friendships, late-night talks, little moments — they matter too.
+It’s easy to get stuck in the grind and miss out on the *college experience*. I’m not saying go crazy I’m saying find balance. The friendships, late-night talks, little moments they matter too.
 
 I missed out on a few things in my first semester, both friendships and relationships I wish I had nurtured. That’s why I’m telling you:
 
